@@ -1,0 +1,10 @@
+<!ELEMENT ROOT (storebook)>
+<!ELEMENT storebook (store)>
+<!ELEMENT store (sid,name,phone,book)>
+<!ELEMENT sid (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT phone (#PCDATA)>
+<!ELEMENT book (bid,title,authors)>
+<!ELEMENT bid (#PCDATA)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT authors (#PCDATA)>

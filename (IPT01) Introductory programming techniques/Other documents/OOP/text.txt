@@ -1,0 +1,3 @@
+hello this is a text file
+this has sentences
+another line of text

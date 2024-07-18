@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libraries>
+    <library1>
+        <books>
+            <book>
+                <isbn>123456789</isbn>
+                <name>Harry potter</name>
+                <author>JK rowling
+                    <age>40</age>
+                    <lang>English</lang>
+                </author>
+                <genre>fantasy</genre>
+            </book>
+            <book>
+                <isbn>112345678</isbn>
+                <name>fantastic fox</name>
+                <author>roald dahl
+                    <age>103</age>
+                    <lang>English</lang>
+                </author>
+                <genre>fiction</genre>
+            </book>
+            <book>
+                <isbn>111234567</isbn>
+                <name>going solo</name>
+                <author>roald dahl
+                    <age>103</age>
+                    <lang>English</lang>
+                </author>
+                <genre>non fiction</genre>
+            </book>
+            <book>
+                <isbn>122345678</isbn>
+                <name>cookbook</name>
+                <author>mary
+                    <age>28</age>
+                    <lang>English</lang>
+                </author>
+                <genre>non fiction</genre>
+            </book>
+            <book>
+                <isbn>123345678</isbn>
+                <name>life</name>
+                <author>ahmed
+                    <age>50</age>
+                    <lang>Spanish</lang>
+                </author>
+                <genre>non fiction</genre>
+            </book>
+        </books>
+        <employees>
+            <employee>
+                <E_id>001</E_id>
+                <name>Maryiam</name>
+                <job>Librarian</job>
+            </employee>
+            <employee>
+                <E_id>002</E_id>
+                <name>ahmed</name>
+                <job>Librarian</job>
+            </employee>
+            <employee>
+                <E_id>003</E_id>
+                <name>john</name>
+                <job>Librarian assistant</job>
+            </employee>
+            <employee>
+                <E_id>004</E_id>
+                <name>pete</name>
+                <job>janitor</job>
+            </employee>
+
+        </employees>
+    </library1>
+
+
+    <library2>
+        <books>
+            <book>
+                <isbn>123456745</isbn>
+                <name>Atlas</name>
+                <author>ronald
+                    <age>40</age>
+                    <lang>English</lang>
+                </author>
+                <genre>non fiction</genre>
+            </book>
+            <book>
+                <isbn>112345696</isbn>
+                <name>encyclopedia</name>
+                <author>science institute
+                    <age>unknown</age>
+                    <lang>English</lang>
+                </author>
+                <genre>non fiction</genre>
+            </book>
+            <book>
+                <isbn>111234573</isbn>
+                <name>going solo</name>
+                <author>roald dahl
+                    <age>103</age>
+                    <lang>English</lang>
+                </author>
+                <genre>non fiction</genre>
+            </book>
+            <book>
+                <isbn>122345235</isbn>
+                <name>italy cookbook</name>
+                <author>verda
+                    <age>28</age>
+                    <lang>Italian</lang>
+                </author>
+                <genre>non fiction</genre>
+            </book>
+            <book>
+                <isbn>123345655</isbn>
+                <name>greecian symbols</name>
+                <author>ahmed
+                    <age>50</age>
+                    <lang>greek</lang>
+                </author>
+                <genre>non fiction</genre>
+            </book>
+        </books>
+        <employees>
+            <employee>
+                <E_id>201</E_id>
+                <name>hassan</name>
+                <job>Librarian</job>
+            </employee>
+            <employee>
+                <E_id>202</E_id>
+                <name>aisha</name>
+                <job>Librarian</job>
+            </employee>
+            <employee>
+                <E_id>203</E_id>
+                <name>kiyaan</name>
+                <job>Librarian assistant</job>
+            </employee>
+            <employee>
+                <E_id>204</E_id>
+                <name>mike</name>
+                <job>janitor</job>
+            </employee>
+        </employees>
+    </library2>
+
+</libraries>

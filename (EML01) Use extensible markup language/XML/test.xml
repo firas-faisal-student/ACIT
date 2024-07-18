@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<monsters>
+    <monster m_id="1">
+        <name>Mundane</name>
+        <salary>10000</salary>
+    </monster>
+    <monster m_id="2">
+        <name>Murane</name>
+        <salary>20000</salary>
+    </monster>
+</monsters>
