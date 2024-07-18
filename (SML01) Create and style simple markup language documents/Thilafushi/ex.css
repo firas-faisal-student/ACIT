@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(176, 210, 255);
+}
+
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h4{
+    font-family:Arial, Helvetica, sans-serif;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+dt{
+    font-family: fantasy;
+}
+th{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#d1{
+   font-family: fantasy;
+}

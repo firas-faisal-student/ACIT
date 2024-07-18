@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>counter</title>
+    <link rel="stylesheet" href="counter.css">
+    
+</head>
+<body>
+
+    <div class="mainbody">
+        <h2 id="counter">Counter App</h2>
+        <div id="con">
+        <button class="button" id="minus" onclick="decrease()">-</button>
+        <button id="display">0</button>
+        <button class="button" id="plus" onclick="increase()">+</button>
+        <button class="button" id="reset" onclick="reset()">reset</button>
+        </div>
+        
+    </div>
+
+    <script>
+        var count
+        count=0
+        function increase(){
+            count++
+            document.getElementById('display').innerHTML=count;
+        }
+        function decrease(){
+            // if (count>0) that is to not let minus values=true
+            count--
+            document.getElementById('display').innerHTML=count;
+            
+        }
+        function reset(){
+            count=0
+            document.getElementById('display').innerHTML=count;
+        }
+        
+
+    </script>
+    
+</body>
+</html>

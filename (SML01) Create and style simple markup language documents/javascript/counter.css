@@ -1,0 +1,60 @@
+
+#counter{
+    position: relative;
+    left: 800px;
+
+
+
+}
+
+#con{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    right: 50px;
+    top: 100px;
+
+    
+    
+
+}
+
+.button{
+    width: 60px;
+    height: 30px;
+    border-radius: 50px;
+    background-color: rgb(0, 255, 242);
+
+
+}
+
+#minus{
+    position: relative;
+    right: 100px;
+    top: 10px;
+
+}
+
+#plus{
+    position: relative;
+    left: 100px;
+    top: 10px;
+
+}
+
+#display{
+    border: 1px;
+    border-style: dotted;
+    width: 60px;
+    height: 30px;
+    border-radius: 20px;
+    position: relative;
+    top: 10px;
+
+}
+
+#reset{
+    position: relative;
+    top: 100px;
+    right: 120px;
+}
